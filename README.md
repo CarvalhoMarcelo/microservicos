@@ -16,7 +16,7 @@ Product endpoint:
 ```
 Price endpoint:
 ```
-(GET)    "http://localhost:8002/price/101
+(GET)    http://localhost:8002/price/101
 ```
 Inventory endpoint:
 ```
